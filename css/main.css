@@ -8,6 +8,7 @@
 .my-flex-container {
     display: flex;
     height: 400px;
+    background: grey;
 }
 
 .my-flex-box-1 {
